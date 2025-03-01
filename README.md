@@ -20,8 +20,8 @@ My roommate used this code to ask out her boyfriend and HE SAID YESSSSS! Could t
 1. Ask your crush to open the app
 2. Watch as they try to click "No" (spoiler: it's futile)
 3. The "Yes" button grows bigger with each rejection
-4. "No" button text becomes increasingly desperate
-5. Eventually, they'll give in and click "Yes"
+4. The "No" button text becomes increasingly desperate
+5. Eventually, they'll give in and click "Yes."
 6. Celebrate with an adorable bear kiss animation!
 
 ## 💻 Technologies Used
